@@ -1,0 +1,6 @@
+.circle {
+  height: 100px;  /* Adjust as desired */
+  width: 100px;   /* Adjust as desired (ensure same value for circle) */
+  border-radius: 50%;
+  background-color: blue; /* Optional: set background color */
+}
